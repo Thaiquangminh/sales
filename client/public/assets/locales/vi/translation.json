@@ -1,0 +1,8 @@
+{
+    "login_message": "Đăng nhập",
+    "login_username": "Tên tài khoản",
+    "login_password": "Mật khẩu",
+    "login_button": "Đăng nhập",
+    "login_invalid_name": "Không tồn tại tài khoản",
+    "login_invalid_password": "Sai mật khẩu"
+}

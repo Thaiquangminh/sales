@@ -1,0 +1,8 @@
+{
+    "login_message": "Login",
+    "login_username": "Username",
+    "login_password": "Password",
+    "login_button": "Login",
+    "login_invalid_name": "Invalid username",
+    "login_invalid_password": "Invalid password"
+}
